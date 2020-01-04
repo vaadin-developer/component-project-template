@@ -62,33 +62,6 @@
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-button-flow</artifactId>
     </dependency>
-    <dependency>
-      <groupId>com.vaadin</groupId>
-      <artifactId>vaadin-ordered-layout-flow</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.vaadin</groupId>
-      <artifactId>vaadin-app-layout-flow</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.vaadin</groupId>
-      <artifactId>vaadin-tabs-flow</artifactId>
-    </dependency>
-
-    <dependency>
-      <groupId>com.vaadin</groupId>
-      <artifactId>vaadin-grid-flow</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.vaadin</groupId>
-      <artifactId>vaadin-charts-flow</artifactId>
-    </dependency>
-
-    <!--    external Flow components -->
-    <dependency>
-      <groupId>com.github.appreciated</groupId>
-      <artifactId>vaadin-css-grid</artifactId>
-    </dependency>
 
   </dependencies>
 
