@@ -2,14 +2,13 @@ _data/webdrivers/*
 node/*
 node_modules/*
 
+package-lock.json
+package.json
+webpack.config.js
+webpack.generated.js
 
 node
 node_modules
-
-package.json
-package-lock.json
-webpack.config.js
-webpack.generated.js
 
 */package.json
 */package-lock.json
